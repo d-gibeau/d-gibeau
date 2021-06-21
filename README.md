@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ututu222, aspiring software developer.
+- 👋 Hi, I’m @Ututu222, software developer.
 - 👀 I’m interested in video games, learning more about coding, and cooking!
 - 🌱 I’m currently learning Python syntax, and forcing myself to learn a bit more front-end stuff to round out my skillset.
 - 💞️ I’m looking to collaborate on beginner-intermediate projects for more experience with development.
