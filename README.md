@@ -5,7 +5,6 @@
 - 📫 How to reach me: dgibeau@gmail.com, or maybe on Discord - Ututu222#5552
 
 ### A bit about me
-I am currently looking for work as a junior software developer. I recently completed my diploma at NAIT to pivot my career into something I am passionate about.
 
 I am an avid problem-solver and enjoy finding the most efficient solution. Refining code I have written to use as few lines as possible and work more efficiently is very satisfying. I am fascinated by how things work behind the scenes, both for people and for tech. Finding out people's experiences, values and beliefs helps me understand where they come from and what makes them tick. I am a quick learner and enjoy familiarizing myself with new technologies.
 
