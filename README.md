@@ -2,7 +2,7 @@
 - 👀 I’m interested in video games, learning more about coding, and cooking!
 - 🌱 I’m currently learning Python syntax, and forcing myself to learn a bit more front-end stuff to round out my skillset.
 - 💞️ I’m looking to collaborate on beginner-intermediate projects for more experience with development.
-- 📫 How to reach me: dgibeau@gmail.com, or maybe on Discord - Ututu222#5552
+- 📫 How to reach me: dgibeau@gmail.com
 
 ### A bit about me
 
